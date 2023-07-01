@@ -1,6 +1,6 @@
 # SSH Auto-login Setup Guide
 
-This repository provides a guide and resources on setting up automatic login to remote servers using SSH and key pairs, which simplifies the process of logging into remote machine. The following can be done using a MacOS or Linux OS device.
+This repository provides a guide on setting up automatic login to remote servers using SSH and key pairs, which simplifies the process of logging into the tux remote machine. The following can be done using a MacOS or Linux OS device.
 
 ## ⚠️ Security Warning ##
 
